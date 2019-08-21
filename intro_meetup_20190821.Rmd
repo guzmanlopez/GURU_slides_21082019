@@ -126,9 +126,9 @@ Encuentro Internacional de Usuarios de `R` en Latinoamérica: Conectando Industr
   - Rol de la Estadística en la tiempos de Ciencia de Datos
   - Talleres sobre: reportes dinamicos, y manjo de información geográfica
 
-- El 4 y 5 de Octubre 2019, en Montevideo `r emo::ji("uruguay")` (Facultad de Economía - UdelaR)
+- El 4 y 5 de Octubre 2019, en Montevideo `r emo::ji("uruguay")` (Facultad de Economía - UdelaR).
 
-.center[![jornadas_estadistica_maren](images/suelogo.png)]
+.center[![sue_logo](images/suelogo.png)]
 
 ---
 
