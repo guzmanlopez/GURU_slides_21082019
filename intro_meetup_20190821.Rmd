@@ -140,5 +140,6 @@ Encuentro Latinoamericano en Inteligencia Artificial:
 .center[![tryolabs_logo](images/tryolabs_logo.png)]
 
 
-- Repo de esta presentación:
+- Repo de esta presentación: [github.com/guzmanlopez/GURU_slides_21082019](https://github.com/guzmanlopez/GURU_slides_21082019)
 
+.footnote[Realizada con `R` y con `r emo::ji("heart")`]
