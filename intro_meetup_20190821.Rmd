@@ -118,7 +118,7 @@ Encuentro Internacional de Usuarios de `R` en Latinoamérica: Conectando Industr
 
 # Jornadas Nacionales de Estadística - SUE
 
-[suecontacto@gmail.com]
+[suecontacto@gmail.com](mailto:suecontacto@gmail.com)
 
 - Jornadas de intercambio de la Sociedad Uruguaya de Estadística (SUE)
 
