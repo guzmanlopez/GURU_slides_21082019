@@ -30,7 +30,7 @@ background-image: url(images/Rlogo.svg)
 
 Encuentro Internacional de Usuarios de `R` en Latinoamérica: Conectando Industria, Enseñanza, Ciencia Ciudadana y Ciencia Abierta.
 
-- Fue el 24, 25 y 26 de enero de 2019 en Costa Rica `r emo::ji("costa_rica")`.
+- Fue el 24, 25 y 26 de enero de 2019 en Costa Rica `r emo::ji("costa_rica")`
 
 - La próxima edición de ConectaR será en el 2021.
 
@@ -92,7 +92,7 @@ Encuentro Internacional de Usuarios de `R` en Latinoamérica: Conectando Industr
   - Modelos espacio-temporales
   - Epidemiología
 
-- El 13 y 14 de setiembre de 2019 en La Paloma, Rocha `r emo::ji("uruguay")`.
+- El 13 y 14 de setiembre de 2019 en La Paloma, Rocha `r emo::ji("uruguay")`
 
 .center[![jornadas_estadistica_maren](images/jornadas_de_estadistica.png)]
 
@@ -104,7 +104,7 @@ Encuentro Internacional de Usuarios de `R` en Latinoamérica: Conectando Industr
 
 - Conferencia Latinoamericana sobre Uso de `R` en Investigación + Desarrollo.
 
-- Del 25 al 27 de setiembre de 2019 en Santiago de Chile `r emo::ji("chile")`.
+- Del 25 al 27 de setiembre de 2019 en Santiago de Chile `r emo::ji("chile")`
 
 - Oradores principales:
 
@@ -123,10 +123,10 @@ Encuentro Internacional de Usuarios de `R` en Latinoamérica: Conectando Industr
 - Jornadas de intercambio de la Sociedad Uruguaya de Estadística (SUE)
 
 - Ejes temáticos:
-  - Rol de la Estadística en la tiempos de Ciencia de Datos
-  - Talleres sobre: reportes dinamicos, y manjo de información geográfica
+  - Rol de la Estadística en la tiempos de Ciencia de Datos.
+  - Talleres sobre: reportes dinámicos y manejo de información geográfica.
 
-- El 4 y 5 de Octubre 2019, en Montevideo `r emo::ji("uruguay")` (Facultad de Economía - UdelaR).
+- El 4 y 5 de octubre de 2019 en Montevideo `r emo::ji("uruguay")` (Facultad de Economía - UdelaR).
 
 .center[![sue_logo](images/suelogo.png)]
 
