@@ -5,7 +5,7 @@
 ## Evento
 
 - [Evento de meetup](https://www.meetup.com/es/GURU-mvd/events/263777768/)
-
+- [Presentación](https://guzmanlopez.github.io/GURU_slides_21082019/)
 
 ## Charlas
 
